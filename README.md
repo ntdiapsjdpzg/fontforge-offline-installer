@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 FontForge Free Installer** — FontForge is a free, open-source font editor for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 FontForge Free Installer** — FontForge is a free, open-source font editor for creating and modifying fonts in TrueType, OpenType, PostScript, and many other formats. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About FontForge
 
-FontForge is a free, open-source font editor for Windows, macOS, and Linux. Create and edit fonts in PostScript, TrueType, OpenType, SVG, and many other formats. While its interface is less polished than commercial alternatives, FontForge is a powerful tool with comprehensive features for font creation, conversion, and modification — the go-to choice for open-source font development.
+FontForge is a free, open-source font editor for creating and modifying fonts in TrueType, OpenType, PostScript, and many other formats. While not the most polished interface, it is the only fully free professional font editor available on all platforms.
 
 ---
 
 ## ❌ Problem: FontForge is hard to access
 
-- **Dated Interface** — UI design significantly older than commercial alternatives
-- **Learning Curve** — Complex tool requiring type design knowledge
-- **Stability Issues** — Occasional crashes with complex font operations
-- **Documentation Gaps** — Some advanced features poorly documented
+- **Dated Interface** — UI significantly less polished than commercial font editors
+- **Steep Learning Curve** — Font engineering concepts are complex; documentation is dense
+- **Stability Issues** — Can crash on complex operations; save frequently
+- **Linux-Primary Feel** — Windows and macOS experience less native than Linux
 
 ---
 
@@ -121,7 +121,7 @@ FontForge is a free, open-source font editor for Windows, macOS, and Linux. Crea
 
 ---
 
-**FontForge Free Installer** — FontForge is a free, open-source font editor for Windows, macOS, and Linux. Install without internet connection today!
+**FontForge Free Installer** — FontForge is a free, open-source font editor for creating and modifying fonts in TrueType, OpenType, PostScript, and many other formats. Install without internet connection today!
 
 <div align="center">
 
